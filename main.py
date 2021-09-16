@@ -1,6 +1,4 @@
 # %%
-a = "abcde"
-print(a[1:3])
 import pygame as pg
 import time, random, selenium
 import sys

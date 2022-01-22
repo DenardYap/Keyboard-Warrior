@@ -1,4 +1,4 @@
 Gameplay Preview
 
 
-![gameplay](gameplay.gif)
+![gameplay](gameplay1.gif)
